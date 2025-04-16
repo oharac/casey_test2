@@ -2,7 +2,7 @@
 for the collaborative git/github workshop
 
 Here's a new paragraph, blah blah.
-Here's an equation, etc.
+Here's my new equation E = mc^2.
 
 Hi I'm Zach Madsen
 
