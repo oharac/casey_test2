@@ -2,7 +2,7 @@
 for the collaborative git/github workshop
 
 Here's a new paragraph, blah blah.
-Here's an equation, etc.
+My equation is a^2+b^2=c^2
 
 Hi I'm Zach Madsen
 
